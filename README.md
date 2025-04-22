@@ -22,7 +22,7 @@ To analyze and visualize Superstore's sales data in order to:
 
 ## 🖼️Dashboard Overview
 The dashboard is titled:
-> **Superstore Performance Metrics: Sales, Discounts, and Profit Insights**
+**Superstore Performance Metrics: Sales, Discounts, and Profit Insights**
 It includes a variety of interactive visuals and slicers to enable deep-dive analysis and storytelling.
 
 ## 🔧Visual Components
@@ -66,7 +66,7 @@ These slicers allow users to filter and explore data dynamically based on differ
 - Power Query for data transformation
 
 ## Final Dashboard
-- <a href="    ">Dashboard</a>
+- <a href="https://github.com/VidyavaVidyavati/Superstore-Sales-Performance-Dashboard/blob/main/SuperStore%20Sales.pbix">Dashboard</a>
 
 ## ✅ Conclusion
 
