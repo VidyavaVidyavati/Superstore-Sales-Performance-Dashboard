@@ -20,46 +20,6 @@ To analyze and visualize Superstore's sales data in order to:
 5. What is the distribution of sales across different shipping modes?
 6. Are there any patterns or trends in the quantity sold relative to discount levels?
 
-## 🖼️Dashboard Overview
-The dashboard is titled:
-**Superstore Performance Metrics: Sales, Discounts, and Profit Insights**
-It includes a variety of interactive visuals and slicers to enable deep-dive analysis and storytelling.
-
-## 🔧Visual Components
-
-### 📌**KPI Cards**
-- **Metrics Displayed**: Total Sales, Profit, Discount, Quantity
-- **Purpose**: Quick view of overall business performance.
-
-### 📍**Sales by State**  
-- **Visual Type**: Bar Chart  
-- **Insight**: Identifies which U.S. states contribute most to total sales.
-
-### 💰**Profit by State**  
-- **Visual Type**: Column Chart  
-- **Insight**: Highlights the most and least profitable states.
-
-### 📈**Discount by Quantity**  
-- **Visual Type**: Line Chart  
-- **Insight**: Shows how discount percentages relate to quantities sold.  
-
-### 🧭**Sales by Region**  
-- **Visual Type**: Pie Chart  
-- **Insight**: Displays proportion of sales by region. 
-
-### 🍩**Sales by Sub-Category**  
-- **Visual Type**: Donut Chart  
-- **Insight**: Reveals sub-category contributions to total sales.  
-
-## 🎛️Interactivity
-
-### 🧮**Slicers Included**
-- **Segment** (Consumer, Corporate, Home Office)
-- **Category** (Furniture, Technology, Office Supplies)
-- **Ship Mode** (Standard Class, Second Class, etc.)
-
-These slicers allow users to filter and explore data dynamically based on different business perspectives.
-
 ## 🛠️ Tools Used
 
 - Microsoft Power BI Desktop
